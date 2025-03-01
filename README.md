@@ -1,6 +1,6 @@
 # My SQL Journey - From Basics to LeetCode
 
-Welcome to **my SQL Journey**! 🚀 This repository is where I document my progress in SQL, tackling problems from **basic queries** to **LeetCode-problems**. Along the way, I share **notes, explanations, and additional insights** to help others preparing for SQL **interviews**.
+Welcome to **my SQL Journey**! 🚀 This repository is where I document my progress in SQL, tackling problems from **basic queries** to **LeetCode-level challenges**. Along the way, I share **notes, explanations, and additional insights** to help others preparing for SQL **interviews**.
 
 ## 📌 Why I Created This Repository
 
