@@ -1,4 +1,4 @@
-// Last updated: 19/07/2025, 09:43:16
+// Last updated: 19/07/2025, 09:44:18
 /**
  * @param {number[]} nums
  * @return {number}
@@ -13,8 +13,7 @@ var removeDuplicates = function(nums) {
             if(nums[i] !== nums[j]){
                 i++;
                 nums[i] = nums[j];
-            }
-        
+            }   
     }
     return i+1;
 };
